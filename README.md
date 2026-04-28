@@ -56,3 +56,9 @@ The importer currently handles the theme-oriented lines this app exports:
 - `set -g message-style`
 
 Lines outside that subset are reported as unsupported instead of being silently ignored.
+
+## Inspiration
+
+Some of the tmux theming ideas and powerline-style formatting approach were inspired by Eric J. Ma's post:
+
+<https://ericmjl.github.io/blog/2025/12/27/how-i-themed-my-tmux-with-opencode-and-claude/>
